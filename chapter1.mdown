@@ -1,0 +1,43 @@
+#charpter1 Java概述   
+
+---
+本章内容包括  
+
+- [java程序设计平台](#java平台)  
+- [关键术语](#关键术语)  
+- [java applet与Internet](#java applet与Internet)  
+- [java发展简史](java发展简史)  
+- [关于java的常见误解](#关于java的常见误解)  
+
+1996年java一发布就引起了轰动，并获得一亿美元的风险投资基金。  
+
+<a name="java平台"></a>
+##java程序设计平台
+java并不只是一种语言，而是一套完备的程序设计平台。它有一个庞大的库，库里面包含了很多可以重复使用的代码。并且内置一个提供安全性、可移植性、以及自动垃圾回收等服务的集成环境。有了这个库，绘图功能、网络连接功能、数据存储功能就不必自己再来写代码。
+
+---
+<a name="关键术语"></a>
+##关键术语
+略，
+
+---
+<a name="java applet与Internet"></a>
+##java applet与Internet
+在网页中运行的java程序称为applet.但是*目前在网页中显示动态效果时大多都适用javascript或者flash。*
+
+---
+<a name="java发展简史"></a> 
+##java发展简*
+略
+
+---
+<a name="java的常见误解"></a>
+##java的常见误解
+摘略：
+- javascript是java的简易版： javascript是一种网页中使用的脚本语言，有netscape开发。原来的名字叫做livescript。
+
+---
+
+
+
+

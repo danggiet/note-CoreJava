@@ -1,0 +1,43 @@
+#chapter2 java程序设计的环境
+
+本章主要介绍如何安装java开发工具包（jdk），各种程序的编译和运行，包括：控制台程序、图形界面程序和applet程序。
+
+-   [安装开发工具箱](#安装开发工具箱)
+-   [选择开发环境](#选择开发环境)
+-   [使用命令行工具](#使用命令行工具)
+-   [运行图形化应用程序](#运行图形化应用程序)
+-   [建立并运行applet](#建立并运行applet)
+
+---
+<a name="安装开发工具箱"></a>
+##安装开发工具箱
+java development kit        JDK     编写java程序的程序员使用的程序
+java runtime environment    JRE     运行java程序的用户使用的软件
+Stardard edtion             SE
+enterprise edition          EE
+Micro edtion                ME
+JAVA 2                              过时的术语，指98-06年间的java版本
+sdk                                 过时的术语，后来用JDK代替
+Netbeans                            oracle的集成开发环境
+
+内容提到库源文件的查看，环境变量的设置，不看了。要用的时候上网搜索。
+
+---
+<a name="选择开发环境"></a>
+##选择开发环境
+略
+
+---
+<a name="使用命令行工具"></a>
+##使用命令行工具
+ linux都会一点了，根本不要再看了。
+
+---
+<a name="运行图形化应用程序"></a>
+##运行图形化应用程序
+并没有什么内容。
+
+---
+<a name="建立并运行applet"></a>
+##建立并运行applet
+同样没有什么内容，运行程序都是一样的。不明白作者这么多废话搞什么。
